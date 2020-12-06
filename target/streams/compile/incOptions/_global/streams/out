@@ -1,0 +1,55 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\79170\IdeaProjects\BigData_lab1\target\scala-2.11\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Main$$anonfun$29.class
+[debug] 	Main$$anonfun$main$1.class
+[debug] 	Main$$anonfun$30.class
+[debug] 	Main.class
+[debug] 	Main$$anonfun$main$10.class
+[debug] 	Main$$anonfun$23.class
+[debug] 	Station$.class
+[debug] 	Trip$.class
+[debug] 	Main$$anonfun$7.class
+[debug] 	Main$$anonfun$main$8.class
+[debug] 	Main$$anonfun$26.class
+[debug] 	Main$$anonfun$1.class
+[debug] 	Main$$anonfun$6.class
+[debug] 	Main$$anonfun$10.class
+[debug] 	Main$$anonfun$12$$anonfun$apply$2.class
+[debug] 	Main$$anonfun$16.class
+[debug] 	Main$$anonfun$8$$anonfun$apply$1.class
+[debug] 	Trip.class
+[debug] 	Main$$anonfun$27.class
+[debug] 	Main$$anonfun$19.class
+[debug] 	Station.class
+[debug] 	Main$$anonfun$4.class
+[debug] 	Main$$anonfun$2.class
+[debug] 	Main$$anonfun$main$5.class
+[debug] 	Main$$anonfun$22.class
+[debug] 	Main$$anonfun$17.class
+[debug] 	Main$$anonfun$24.class
+[debug] 	Main$$anonfun$18.class
+[debug] 	Main$$anonfun$main$7.class
+[debug] 	Main$$anonfun$main$9.class
+[debug] 	Main$$anonfun$28.class
+[debug] 	Main$$anonfun$main$4.class
+[debug] 	Main$$anonfun$21.class
+[debug] 	Main$$anonfun$31.class
+[debug] 	Main$.class
+[debug] 	Main$$anonfun$5.class
+[debug] 	Main$$anonfun$main$3.class
+[debug] 	Main$$anonfun$14.class
+[debug] 	Main$$anonfun$25.class
+[debug] 	Main$$anonfun$15.class
+[debug] 	Main$$anonfun$9.class
+[debug] 	Main$$anonfun$11.class
+[debug] 	Main$$anonfun$12.class
+[debug] 	Main$$anonfun$main$2.class
+[debug] 	Main$$anonfun$main$6.class
+[debug] 	Main$$anonfun$main$11.class
+[debug] 	Main$$anonfun$3.class
+[debug] 	Main$$anonfun$8.class
+[debug] 	Main$$anonfun$20.class
+[debug] 	Main$$anonfun$13.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\79170\IdeaProjects\BigData_lab1\target\scala-2.11\classes.bak

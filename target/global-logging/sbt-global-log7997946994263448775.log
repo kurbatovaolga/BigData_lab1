@@ -1,0 +1,10 @@
+[debug] > Exec(package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\79170\IdeaProjects\BigData_lab1\target\scala-2.11\classes ...
+[info] Non-compiled module 'compiler-bridge_2.11' for Scala 2.11.8. Compiling...
+[info]   Compilation completed in 24.528s.
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 38 s, completed 06.12.2020 22:07:29
+[debug] > Exec(idea-shell, None, None)
